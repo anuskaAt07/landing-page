@@ -24,7 +24,7 @@ JavaScript (for interactive elements)
 🚀 Getting Started
 Clone the repository
 
-git clone https://github.com/your-username/netflix-landing-page.git
+git clone gh repo clone anuskaAt07/landing-page
 
 Open the project
 You can simply open index.html in your browser, or use Live Server if you're using VS Code.
